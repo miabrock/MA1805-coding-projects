@@ -1,0 +1,2 @@
+For this mini project we had to create moving text.
+I enjoyed this one and i probably found it the easiest to understand after the drawing one. I managed to achive what i was aiming for and my coding experience with this was a good and enjoyable one.
