@@ -4,9 +4,9 @@ function setup() {
 
 function draw() {
   background(220);
-  fill(100, 100, 0)
 
   // eyes
+  fill(100, 100, 0)
   circle(100, 50, 50);
   circle(200, 50, 50);
 
