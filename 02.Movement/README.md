@@ -1,0 +1,3 @@
+For this mini project we had to create a moving drawing using different shapes made with code.
+I also found this one quite challenging as i stuggled to figure out how to get the shapes to move in the direction that i wanted them to. 
+my coding experience for this one was very frustrating as i was struggling to understand the code and how to get the outcome i desired however in the end i managed it so i was overal happy with the experience.
